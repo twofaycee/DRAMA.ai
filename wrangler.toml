@@ -1,0 +1,5 @@
+
+name = "drama-ai"
+compatibility_date = "2024-06-01"
+[build]
+command = "npm run pages:build"
