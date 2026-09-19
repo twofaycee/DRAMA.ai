@@ -1,6 +1,6 @@
 {
-  "name": "drama-ai-cloudflare",
-  "version": "2.1.0",
+  "name": "ai-business-builder",
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
